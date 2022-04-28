@@ -1,0 +1,47 @@
+body{
+    background-color:antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form-class{
+    text-align: center;
+    padding: 10px;
+}
+
+.form-input{
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px;
+    height: 20px;
+    background-color: brown;
+    color: white;
+}
+
+
+.form-value{
+    border: 0px;
+    border-bottom: 2px solid;
+    background-color: transparent;
+    margin: 30px;
+}
+
+.other-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lab-exercises{
+    margin: 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 820px;
+}
+
+.lab-program-1{
+    text-align: center;
+}
+
+.back-tag{
+    text-decoration: none;
+}
